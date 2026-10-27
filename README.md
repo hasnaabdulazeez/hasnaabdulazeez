@@ -25,7 +25,3 @@ I build AI systems end to end: data pipelines, model training and evaluation, AP
 **GenAI:** RAG · QLoRA fine-tuning · embeddings & vector search · prompt engineering
 **Backend & data:** Python · FastAPI · Flask · Django · SQL · PostgreSQL/pgvector · PySpark
 **MLOps & cloud:** Docker · Kubernetes · GitHub Actions · AWS · Azure · GCP · ONNX · TensorRT
-
-### Contact
-
-📧 hasnaabdulazeez.ai@gmail.com · 💼 [linkedin.com/in/hasnaca](https://www.linkedin.com/in/hasnaca) · 🌐 [hasnaca.com](https://hasnaca.com)
