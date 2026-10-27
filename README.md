@@ -4,7 +4,7 @@
 
 I build AI systems end to end: data pipelines, model training and evaluation, APIs, web frontends and deployment. My work centres on computer vision (detection, segmentation, tracking, medical imaging) and LLM applications (retrieval-augmented generation and parameter-efficient fine-tuning).
 
-📍 Kerala, India · open to AI/ML roles in India and the UAE/GCC
+
 
 ### Featured projects
 
